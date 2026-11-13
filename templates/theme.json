@@ -1,0 +1,14 @@
+{
+ "bg": "#10404C",
+ "ink": "#FFFFFF",
+ "acc": "#25D074",
+ "clay": "#BDF2D5",
+ "mut": "#BDF2D5",
+ "font": "Outfit",
+ "handle": "example.com",
+ "logo": "logo.png",
+ "grade": false,
+ "faceAnchor": 0.3,
+ "badgeUntil": 0,
+ "capStyle": "shadow"
+}

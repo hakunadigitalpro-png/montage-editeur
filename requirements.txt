@@ -1,0 +1,6 @@
+openai-whisper
+rembg[cpu]
+onnxruntime
+numpy
+scipy
+pillow

@@ -1,0 +1,47 @@
+{
+ "nom": "my-product-ad",
+ "titre": "Product ad — Acme",
+ "client": "Acme (example.com)",
+ "langue": "en",
+ "sens": "ltr",
+ "outro": 3.0,
+ "format": "ad",
+ "vol": {
+  "voix": 100,
+  "musique": 46,
+  "effets": 36
+ },
+ "musique_gain": 0.26,
+ "pill": {
+  "bg": "#25D074",
+  "ink": "#10404C"
+ },
+ "coupes": [
+  4.57,
+  11.33,
+  12.83,
+  15.27,
+  16.77,
+  17.97
+ ],
+ "cadrage": {
+  "0": [
+   2.3,
+   4.5
+  ],
+  "1": [
+   4.6,
+   8.9
+  ],
+  "2": [
+   11.4,
+   12.8
+  ],
+  "3": [
+   12.9,
+   15.2
+  ]
+ },
+ "cadrage_force": {},
+ "tete_y": 930
+}

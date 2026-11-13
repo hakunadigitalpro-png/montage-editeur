@@ -1,0 +1,6 @@
+{
+  "name": "montage-editeur",
+  "private": true,
+  "description": "Rendering + site captures for the montage-editeur Claude skill",
+  "dependencies": { "puppeteer-core": "^25.10.0" }
+}

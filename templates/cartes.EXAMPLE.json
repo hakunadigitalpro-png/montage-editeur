@@ -1,0 +1,323 @@
+{
+ "_comment": "Speaker's exact words, Whisper word timings. Cards of 2-5 words. wS(card, word) in gfx.js points into this list — check with scripts/ancres.py.",
+ "cartes": [
+  {
+   "fin": 1.26,
+   "mots": [
+    [
+     "How",
+     0.0
+    ],
+    [
+     "to double",
+     0.2
+    ],
+    [
+     "your",
+     0.5
+    ],
+    [
+     "revenue",
+     0.66
+    ],
+    [
+     "fast",
+     0.92
+    ]
+   ]
+  },
+  {
+   "fin": 2.3,
+   "mots": [
+    [
+     "this",
+     1.26
+    ],
+    [
+     "busy",
+     1.46
+    ],
+    [
+     "season?",
+     1.76
+    ]
+   ]
+  },
+  {
+   "fin": 3.32,
+   "mots": [
+    [
+     "It's",
+     2.3
+    ],
+    [
+     "simple,",
+     2.7
+    ]
+   ]
+  },
+  {
+   "fin": 4.52,
+   "mots": [
+    [
+     "it's",
+     3.32
+    ],
+    [
+     "example.com",
+     3.48
+    ]
+   ]
+  },
+  {
+   "fin": 5.54,
+   "mots": [
+    [
+     "You",
+     4.64
+    ],
+    [
+     "automate",
+     4.8
+    ]
+   ]
+  },
+  {
+   "fin": 6.46,
+   "mots": [
+    [
+     "your",
+     5.54
+    ],
+    [
+     "forms,",
+     5.68
+    ]
+   ]
+  },
+  {
+   "fin": 7.08,
+   "mots": [
+    [
+     "your",
+     6.46
+    ],
+    [
+     "signatures",
+     6.58
+    ]
+   ]
+  },
+  {
+   "fin": 8.06,
+   "mots": [
+    [
+     "and",
+     7.08
+    ],
+    [
+     "even",
+     7.66
+    ],
+    [
+     "your",
+     7.9
+    ]
+   ]
+  },
+  {
+   "fin": 8.95,
+   "mots": [
+    [
+     "payments",
+     8.06
+    ],
+    [
+     "online",
+     8.4
+    ],
+    [
+     "too.",
+     8.56
+    ]
+   ]
+  },
+  {
+   "fin": 10.02,
+   "mots": [
+    [
+     "No",
+     9.06
+    ],
+    [
+     "need",
+     9.32
+    ],
+    [
+     "to add",
+     9.64
+    ]
+   ]
+  },
+  {
+   "fin": 10.9,
+   "mots": [
+    [
+     "one",
+     10.02
+    ],
+    [
+     "more",
+     10.16
+    ],
+    [
+     "tool,",
+     10.48
+    ],
+    [
+     "because",
+     10.68
+    ]
+   ]
+  },
+  {
+   "fin": 11.96,
+   "mots": [
+    [
+     "Acme",
+     10.9
+    ],
+    [
+     "simply",
+     11.12
+    ],
+    [
+     "plugs",
+     11.22
+    ],
+    [
+     "in",
+     11.76
+    ]
+   ]
+  },
+  {
+   "fin": 13.5,
+   "mots": [
+    [
+     "works with",
+     11.96
+    ],
+    [
+     "all",
+     12.8
+    ],
+    [
+     "your",
+     12.94
+    ],
+    [
+     "tools",
+     13.1
+    ]
+   ]
+  },
+  {
+   "fin": 15.18,
+   "mots": [
+    [
+     "and",
+     13.5
+    ],
+    [
+     "software",
+     13.68
+    ],
+    [
+     "already",
+     14.26
+    ],
+    [
+     "in",
+     14.6
+    ],
+    [
+     "place.",
+     14.8
+    ]
+   ]
+  },
+  {
+   "fin": 16.74,
+   "mots": [
+    [
+     "Head",
+     15.24
+    ],
+    [
+     "to",
+     15.6
+    ],
+    [
+     "example.com",
+     15.82
+    ]
+   ]
+  },
+  {
+   "fin": 17.96,
+   "mots": [
+    [
+     "to",
+     16.74
+    ],
+    [
+     "try",
+     17.02
+    ],
+    [
+     "the",
+     17.36
+    ],
+    [
+     "platform",
+     17.54
+    ]
+   ]
+  },
+  {
+   "fin": 19.7,
+   "mots": [
+    [
+     "built",
+     17.96
+    ],
+    [
+     "for",
+     18.78
+    ],
+    [
+     "you.",
+     19.06
+    ]
+   ]
+  }
+ ],
+ "hot": [
+  "to double",
+  "revenue",
+  "simple,",
+  "automate",
+  "forms,",
+  "signatures",
+  "payments",
+  "works with",
+  "try"
+ ],
+ "fx": {
+  "example.com": "pill",
+  "Acme": "pill",
+  "more": "strike",
+  "to double": "slam"
+ }
+}
