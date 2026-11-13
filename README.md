@@ -27,8 +27,9 @@ Send Claude a talking-head video (plus the brand's website for client work). The
 Requirements: **Claude Code** (desktop app or CLI), **bash** (macOS/Linux, or Git Bash on Windows), **Python 3.10+**, **Node.js 18+**, **ffmpeg**, **Google Chrome** or Microsoft Edge.
 
 ```bash
-# 1. put the skill in your skills folder
-#    macOS/Linux: ~/.claude/skills/montage-editeur   ·   Windows: C:\Users\<you>\.claude\skills\montage-editeur
+# 1. put the skill in your skills folder (Windows: run this in Git Bash)
+git clone https://github.com/hakunadigitalpro-png/montage-editeur.git ~/.claude/skills/montage-editeur
+cd ~/.claude/skills/montage-editeur
 # 2. install the dependencies (from inside the skill folder)
 npm install
 pip install -r requirements.txt
